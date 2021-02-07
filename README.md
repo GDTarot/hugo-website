@@ -1,5 +1,3 @@
-# hugo-website
-A no-code, no-software and no-cost solution to publishing sophisticated web sites managed by non-technical people.
 Gail Dillard's curriculum vitae, the long version of accomplishments typically used in academia.
 
 Gail Dillard, Ph.D.
