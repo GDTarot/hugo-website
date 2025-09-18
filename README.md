@@ -1,3 +1,5 @@
+type: no-header
+
 Dear Friend,
 
 What a pleasure it is to see the Charter Committee of Greater Cincinnati on its feet and going strong, fulfilling the promise of promoting good government in Cincinnati. This letter is by way of delivering my wholehearted endorsement of all five candidates who have chosen to affiliate with the Charter organization. It is, in true Charter fashion, a multipartisan and diverse group:
