@@ -1,4 +1,4 @@
-type: no-header
+ShowHeader: false
 
 Dear Friend,
 
